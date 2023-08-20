@@ -2,7 +2,7 @@
 Retail Shop Analysis to check the Purchase variations with respect to age, marital status and gender
 📊 Retail Shop Analysis 🛒
 
-Hey #LinkedInCommunity! I'm thrilled to share with you a recent project that I've been diving into – the Retail Shop Analysis. 🛒💼 In this endeavor, I delved deep into the world of consumer behavior and explored the intriguing relationship between purchase patterns and key demographics such as gender, marital status, and age group.
+Hey I'm thrilled to share with you a recent project that I've been diving into – the Retail Shop Analysis. 🛒💼 In this endeavor, I delved deep into the world of consumer behavior and explored the intriguing relationship between purchase patterns and key demographics such as gender, marital status, and age group.
 
 Using the powerful tool of Central Limit Theorem (CLT), I embarked on a journey to understand how purchasing behaviors vary across these diverse categories. The heart of my analysis lay in uncovering the purchase means within these groups, and boy, did the results unveil some captivating insights! 📈📊
 
